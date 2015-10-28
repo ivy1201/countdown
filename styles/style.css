@@ -1,0 +1,11 @@
+#all_canvas{
+	position: relative;
+}
+#canvas1{
+	position: absolute;
+	z-index: 0;
+}
+#canvas2{
+	position: absolute;
+	z-index: 1
+}
